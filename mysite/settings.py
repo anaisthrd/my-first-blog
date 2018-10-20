@@ -25,7 +25,7 @@ SECRET_KEY = '2)5ntjt48ya4t32&=fy7#z40yg%*5o_22lewd$8%&=9+rv2c17'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'tindertherapie.pythonanywhere.com']
 
 
 # Application definition
